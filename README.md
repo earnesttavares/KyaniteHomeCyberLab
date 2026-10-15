@@ -1,4 +1,4 @@
-# KyaniteCyberLab 🪨 → 🚧 In Progress
+# KyaniteCyberLab 🛡️🪨 → 🚧 In Progress
 
 A dedicated defensive cybersecurity lab used for network analysis, threat detection, vulnerability assessment, malware analysis, and digital forensics & incident response (DFIR) exercises. 
 
@@ -52,9 +52,9 @@ graph LR
 
 ---
 
-## ⚙ Tools & Technologies 
+## 🖬 Tools & Technologies 
 
-### Security Tools
+### 🔺 Security Tools
 
 In Progress...
 
