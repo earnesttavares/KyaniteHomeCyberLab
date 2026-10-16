@@ -1,10 +1,8 @@
-# KyaniteCyberLab 🛡️🪨 → 🚧 In Progress
+# KyaniteHomeCyberLab → 🚧 In Progress
 
 A dedicated defensive cybersecurity lab used for network analysis, threat detection, vulnerability assessment, malware analysis, and digital forensics & incident response (DFIR) exercises. 
 
 The goal of this lab is to build practical cybersecurity skills using open-source tools and budget-friendly hardware. It also serves as a hands-on learning environment to reinforce concepts and develop the experience I need to prepare for the CompTIA CySA+ exam. 
-
-KyaniteCyberLab is named after the blue mineral kyanite, reflecting the defensive blue team side of cybersecurity. Formed under immense geological pressure, kyanite symbolizes resilience, stability, and growth through challenging environments. 
 
 ---
 
