@@ -32,9 +32,9 @@ The goal of this lab is to build practical cybersecurity skills using open-sourc
 | --- | --- | 
 | **Host Machine** | Secondhand Lenovo IdeaPad Y700 w/ 32GB RAM |
 | **Operating System** | Kali Linux | 
-| **Virtualization** | VirtualBox, VMware Workstation | 
+| **Hypervisor** | VirtualBox | 
 | **Virtual Machines** | Kali Linux, Metasploitable 2 | 
-| **Network Design** | TP-Link Managed Switch used to isolate lab devices from home systems |
+| **Network Design** | TP-Link Managed Switch |
 
 ---
 
