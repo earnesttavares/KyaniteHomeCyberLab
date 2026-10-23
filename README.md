@@ -1,4 +1,4 @@
-# KyaniteHomeCyberLab → 🚧 In Progress
+# HomeCyberLab_Kyanite → 🚧 In Progress
 
 A dedicated defensive cybersecurity lab used for network analysis, threat detection, vulnerability assessment, malware analysis, and digital forensics & incident response (DFIR) exercises. 
 
